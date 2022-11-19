@@ -13,7 +13,7 @@ params:
             url: "/posts"
     socialIcons:
       - name: "twitter"
-        url: "https://twitter.com"
+        url: "https://twitter.com/adam_dingman"
       - name: "linkedin"
         url: "https://www.linkedin.com/in/adamdingman/"     
     hideFooter: true   
