@@ -17,6 +17,8 @@ params:
       - name: "linkedin"
         url: "https://www.linkedin.com/in/adamdingman/"     
     hideFooter: true   
+    images:
+    - /images/profile-photo.jpg
 menu:
   main:
     - identifier: About Me
