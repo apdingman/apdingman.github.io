@@ -1,0 +1,29 @@
+baseURL: 'https://apdingman.github.io'
+languageCode: en-us
+title: Adam Dingman
+theme: PaperMod
+params:
+    profileMode:
+        enabled: true
+        Title: Adam Dingman
+        Content: Father to 2 boys and 1 girl
+        imageUrl: images/profile-photo.jpg/
+        buttons:
+          - name: Blog
+            url: "/posts"
+    socialIcons:
+      - name: "twitter"
+        url: "https://twitter.com"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/adamdingman/"     
+    hideFooter: true   
+menu:
+  main:
+    - identifier: About Me
+      name: About Me
+      url: /about-me/
+      weight: 10
+    - identifier: Blog
+      name: Blog
+      url: /blog/
+      weight: 10
