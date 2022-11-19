@@ -2,6 +2,9 @@ baseURL: 'https://apdingman.github.io'
 languageCode: en-us
 title: Adam Dingman
 theme: PaperMod
+buildDrafts: false
+buildFutures: false
+env: "production"
 params:
     profileMode:
         enabled: true
@@ -21,9 +24,9 @@ menu:
   main:
     - identifier: About Me
       name: About Me
-      url: /about-me/
+      url: "/about-me"
       weight: 10
     - identifier: Blog
       name: Blog
-      url: /blog/
+      url: "/posts"
       weight: 10
