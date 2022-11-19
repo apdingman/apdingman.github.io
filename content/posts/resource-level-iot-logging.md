@@ -7,9 +7,15 @@ draft: false
 
 Are you managing a fleet of devices on AWS IoT Core? If so, you likely know that the CloudWatch log group AWSIotLogsV2 can be your best friend for troubleshooting connectivity issues between devices and the IoT core broker. Scraping through logs in this log group can highlight some key information about the successes/failures of your device’s connectivity like seen in Figure 1.
 
+![Figure 1](/images/image-1.png)
+Figure 1
+
 ## Account-Level Logging
 
 Most of the time, you’re only looking for messages with a log level of Error, but sometimes, you might want to see things from a little more granular view. You can subsequently flip the log level setting in IoT Core on the account level to Warning, Info, or if you’re really feeling froggy, Debug.
+
+![Figure 2](/images/image-2.png)
+Figure 2
 
 Easy right? Right. BUT….if you have more than a couple dozen devices connecting to the broker, pumping Debug level logs into CloudWatch can get expensive FAST! I may just have a few scars from an account that had 500k+ devices in the fleet. Thankfully, there are options to help with this. However, they’re buried a little deeper than you might expect.
 
