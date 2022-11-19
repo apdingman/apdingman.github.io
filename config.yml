@@ -7,7 +7,7 @@ params:
         enabled: true
         Title: Adam Dingman
         Content: Father to 2 boys and 1 girl
-        imageUrl: /images/profile-photo.jpg/
+        imageUrl: /images/profile-photo.jpg
         buttons:
           - name: Blog
             url: "/posts"
