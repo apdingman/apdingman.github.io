@@ -27,3 +27,4 @@ menu:
       name: Blog
       url: "/posts"
       weight: 10
+googleAnalytics: hugoblog
