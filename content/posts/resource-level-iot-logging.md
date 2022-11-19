@@ -1,6 +1,6 @@
 ---
 title: "Resource Level AWS IoT Logging"
-date: 2022-11-18T22:06:15-05:00
+date: 2022-04-10T22:06:15-05:00
 draft: false
 ---
 **TL;DR:** AWS recently announced the ability to configure log levels by client ID, source IP, or principal ID. See how to do it here.
