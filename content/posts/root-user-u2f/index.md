@@ -4,6 +4,8 @@ cover:
 title: "Secure AWS Account Root User with U2F Keys"
 date: 2022-11-17T22:06:15-05:00
 draft: false
+twitter:
+  image: images/cover.png
 ---
 
 The AWS Account Root User is the identity that has complete access to all AWS services and resources in an AWS account. The scenarios that require you to use the root user are pretty sparse, so it's good practice to secure the accounts with Multi-Factor Authentication (MFA), store the credentials in a password manager (also protected by MFA), and create named IAM users for any of your AWS account administrative needs.
