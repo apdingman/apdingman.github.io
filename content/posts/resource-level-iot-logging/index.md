@@ -1,6 +1,6 @@
 ---
 cover:
-  image: /images/featured-image2.png
+  image: images/featured-image2.png
 title: "Resource Level AWS IoT Logging"
 date: 2022-04-10T22:06:15-05:00
 draft: false
