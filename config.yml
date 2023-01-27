@@ -31,6 +31,6 @@ menu:
       weight: 10
     - identifier: My Favorite Tweets
       name: My Favorite Tweets
-      url: "/my-fav-tweets"
+      url: "/tweets/my-fav-tweets"
       weight: 10
 googleAnalytics: G-WGJK2RQ8MH 
