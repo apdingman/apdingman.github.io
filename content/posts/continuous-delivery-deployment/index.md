@@ -2,6 +2,7 @@
 author: Adam Dingman
 cover:
   image: images/cover.png
+  hidden: true
   relative: true
 title: "Continuous Delivery vs. Continuous Deployment"
 # description: Comparison of the terms Continuous Delivery and Continuous Deployment in the context of using CI/CD in the Software Development Life Cycle (SDLC) 
