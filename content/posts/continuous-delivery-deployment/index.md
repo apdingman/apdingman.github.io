@@ -34,7 +34,7 @@ Continuous Deployment follows the exact same pattern as Continuous Delivery patt
 
 ## Why would you want to use Continuous Deployment?
 
-Getting to the point of deploying to the production environment eliminates unnecessary human effort and toil and facilitates a much greater rate at which technical features can be delivered to achieve desired business outcomes.
+Getting to the point of deploying all the way through to the production environment using automation eliminates unnecessary human effort and toil and facilitates a much greater rate at which technical features can be delivered to achieve desired business outcomes.
 
 ## How might you get there?
 
@@ -48,11 +48,11 @@ A few thoughts come to mind:
 - Unit testing performed via CI
 - Integration testing built into the pipeline
 - Pipeline integrated with ChatOps tool of choice (Teams, Slack, etc.)
-- Well instrumented systems for logs, metrics, and traces.
+- Well instrumented systems for logs, metrics, and traces
 
 I'm sure a few other ideas might come to your mind.
 
-The *most critical* characteristic to allow for Continuous deployment is an organizational culture that breaks down silos between technical teams and unites technical teams with their business counterparts. A culture based on trust, collaboration, and Continuous improvement are required to facilitate this level of automation in an organization's SDLC.  
+The ***most critical*** characteristic to allow for Continuous Deployment is an organizational culture that breaks down silos between technical teams and unites technical teams with their business counterparts. A culture based on trust, collaboration, and continuous improvement are required to facilitate this level of automation in an organization's SDLC.  
 
 ## Useful Resources
 
