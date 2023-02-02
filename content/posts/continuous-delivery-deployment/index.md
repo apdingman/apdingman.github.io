@@ -1,8 +1,9 @@
 ---
 cover:
+  hidden: true
   image: images/cover.png
 title: "Continuous Delivery vs. Continuous Deployment"
-description: Comparison of the terms Continuous Delivery and Continuous Deployment in the context of using CI/CD in the Software Development Life Cycle (SDLC) 
+# description: Comparison of the terms Continuous Delivery and Continuous Deployment in the context of using CI/CD in the Software Development Life Cycle (SDLC) 
 date: 2023-02-01T21:00:15-05:00
 publishDate: 2023-02-01T21:00:15-05:00
 draft: false
