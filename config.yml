@@ -25,6 +25,10 @@ menu:
       name: About Me
       url: "/about-me"
       weight: 10
+    - identifier: Certifications
+      name: Certifications
+      url: "/certifications"
+      weight: 10
     - identifier: Blog
       name: Blog
       url: "/posts"

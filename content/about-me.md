@@ -28,8 +28,3 @@ A few of the principles I subscribe to:
 - Extreme Ownership
 - Iterate fast. Talk about the details after you’ve built v1.
 - Always be learning
-
-Certifications:
-
-- AWS Solutions Architect Associate
-- AWS Cloud Practitioner
