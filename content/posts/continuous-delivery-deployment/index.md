@@ -1,4 +1,5 @@
 ---
+author: Adam Dingman
 cover:
   hidden: true
   image: images/cover.png

@@ -1,8 +1,10 @@
 ---
+author: Adam Dingman
 cover:
   image: images/cover.png
 title: "Secure AWS Account Root User with U2F Keys"
 date: 2022-11-17T22:06:15-05:00
+publishDate: 2022-04-10T22:06:15-05:00
 draft: false
 twitter:
   image: images/cover.png
