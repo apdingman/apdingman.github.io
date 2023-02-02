@@ -2,6 +2,8 @@
 author: Adam Dingman
 cover:
   image: images/featured-image2.png
+  hidden: true
+  relative: true
 title: "Resource Level AWS IoT Logging"
 date: 2022-04-10T22:06:15-05:00
 publishDate: 2022-04-10T22:06:15-05:00
