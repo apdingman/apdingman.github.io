@@ -1,6 +1,7 @@
 ---
 cover:
   image: images/cover.png
+image: images/cover.png
 title: "Continuous Delivery vs. Continuous Deployment"
 date: 2023-02-01T21:00:15-05:00
 draft: false
