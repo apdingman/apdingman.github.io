@@ -9,7 +9,7 @@ date: 2023-02-01T21:00:15-05:00
 publishDate: 2023-02-01T21:00:15-05:00
 draft: false
 images:
-- images/cover.png
+- /Users/adamdingman/src/apdingman.github.io/content/posts/continuous-delivery-deployment/images/cover.png
 ---
 The term CI/CD gets used a lot to describe how to modernize the Software Delivery Lifecycle (SDLC). While there's usually clear understanding on what **CI - Continuous Integration** means, that clarity isn't always present surrounding the CD part.
 

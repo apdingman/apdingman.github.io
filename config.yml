@@ -3,6 +3,8 @@ languageCode: en-us
 title: Adam Dingman
 theme: PaperMod
 params:
+    defaultTheme: light
+    disableThemeToggle: true
     profileMode:
         enabled: true
         Title: Adam Dingman
