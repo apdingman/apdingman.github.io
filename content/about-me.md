@@ -6,7 +6,7 @@ Motivated by working with systems that are or soon will operate at tremendous sc
 
 Equally engaged by conversation around technical design, business objectives, or how to attract, grow, and retain the best talent.
 
-Domains I’m passionate about:
+**Domains I’m passionate about:**
 
 - Internet of Things (IoT)
 - Industrial Internet of Things (IIoT)
@@ -17,13 +17,13 @@ Domains I’m passionate about:
 - API Development
 - Monitoring, Alerting, Logging, and other instrumentation systems
 
-Favorite AWS Services
+**Favorite AWS Services**
 
 - AWS Lambda
 - Amazon API Gateway
 - AWS IoT Core
 
-A few of the principles I subscribe to:
+**A few of the principles I subscribe to:**
 
 - Extreme Ownership
 - Iterate fast. Talk about the details after you’ve built v1.

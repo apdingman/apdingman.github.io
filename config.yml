@@ -19,6 +19,10 @@ params:
     hideFooter: true   
     images:
     - /images/profile-photo.jpg
+    cover:
+      hidden: false # hide everywhere but not in structured data
+      hiddenInList: false # hide on list pages and home
+      hiddenInSingle: true # hide on single page
 menu:
   main:
     - identifier: About Me
