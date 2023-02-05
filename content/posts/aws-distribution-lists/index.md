@@ -5,8 +5,8 @@ author: Adam Dingman
 #   hidden: true
 #   relative: true
 title: "3 Reasons why you should use Distribution Lists for the AWS Account Root User"
-date: 2023-02-04T00:00:00-05:00
-publishDate: 2023-02-04T00:00:00-05:00
+date: 2022-04-12T00:00:00-05:00
+publishDate: 2022-04-12T00:00:00-05:00
 categories: 
 - AWS 
 draft: false
