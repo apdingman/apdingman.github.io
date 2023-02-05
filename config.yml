@@ -18,6 +18,8 @@ params:
         url: "https://twitter.com/adam_dingman"
       - name: "linkedin"
         url: "https://www.linkedin.com/in/adamdingman/"     
+      - name: "email"
+        url: "mailto:adam@adamdingman.net"
     hideFooter: true   
     images:
     - /images/profile-photo.jpg
@@ -27,9 +29,9 @@ params:
     #   hiddenInSingle: false # hide on single page
 menu:
   main:
-    - identifier: About Me
-      name: About Me
-      url: "/about-me"
+    - identifier: About
+      name: About
+      url: "/about"
       weight: 10
     - identifier: Certifications
       name: Certifications
