@@ -1,7 +1,7 @@
 ---
 author: Adam Dingman
 cover:
-  image: images/cover.png
+  image: images/coverimg.png
   hidden: true
   relative: true
 title: "Deploy an AWS Budget using Pulumi"
