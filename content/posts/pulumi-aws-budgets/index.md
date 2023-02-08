@@ -48,7 +48,7 @@ pulumi config set aws:profile personal
 
 #### Create a Pulumi.yaml file
 
-Create a file named `pulumi.yml` with the following content:
+Create a file named **pulumi.yml** with the following content:
 
 ```yaml
 name: pulumi-aws-budgets
