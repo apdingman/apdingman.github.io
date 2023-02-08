@@ -20,6 +20,8 @@ draft: false
 
 I really wanted a quick and easy means to get a feel for the basic structure of a Pulumi project and to get a feel for the CLI. In order to accomplish this I'm setting up a super basic budget to track and notify on S3 spend in an AWS account.
 
+I chose to use [Pulumi YAML](https://www.pulumi.com/docs/intro/languages/yaml/) as my language of choice for deploying the budget.
+
 ## Example
 
 I've included the skeleton Pulumi project that I used for this example here: <https://github.com/apdingman/pulumi-aws-budgets>
