@@ -47,7 +47,7 @@ Pull request build validation is the concept of running your build and test proc
 
 Developers can get immediate feedback that their recent work is causing the CI process to fail and can address it immediately in a new commit prior to any further actions being taken on the PR they've opened.
 
-*Eliminating disruptions that introduce **toil** and unnecessary **cognitive load** are critical to building happy and healthy dev teams.*
+*Eliminating disruptions that introduce **toil** and unnecessary **cognitive load** is critical to building happy and healthy dev teams.*
 
 ### How do you implement build validation?
 
