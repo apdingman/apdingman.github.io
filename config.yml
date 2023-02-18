@@ -1,18 +1,20 @@
-baseURL: 'https://apdingman.github.io'
+baseURL: 'https://adamdingman.net'
 languageCode: en-us
 title: Adam Dingman
 theme: PaperMod
 params:
     defaultTheme: light
     disableThemeToggle: true
+    title: Adam Dingman - Cloud, DevOps, IoT
     profileMode:
         enabled: true
-        Title: Adam Dingman
-        Content: Father to 2 boys and 1 girl
+        author: Adam Dingman
+        title: Adam Dingman
+        subtitle: Cloud, DevOps, IoT
+        description: Technology consultant curious about all things Cloud, DevOps and IoT
         imageUrl: /images/profile-photo.jpg
-        buttons:
-          - name: Blog
-            url: "/posts"
+        imageWidth: 300
+        imageHeight: 300
     socialIcons:
       - name: "twitter"
         url: "https://twitter.com/adam_dingman"
@@ -20,7 +22,8 @@ params:
         url: "https://www.linkedin.com/in/adamdingman/"     
       - name: "email"
         url: "mailto:adam@adamdingman.net"
-    hideFooter: true   
+    hideFooter: true
+    env: production
     images:
     - /images/profile-photo.jpg
     # cover:
@@ -40,9 +43,5 @@ menu:
     - identifier: Blog
       name: Blog
       url: "/posts"
-      weight: 10
-    - identifier: My Favorite Tweets
-      name: My Favorite Tweets
-      url: "/tweets/my-fav-tweets"
       weight: 10
 googleAnalytics: G-WGJK2RQ8MH 
