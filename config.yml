@@ -1,11 +1,12 @@
 baseURL: 'https://adamdingman.net'
 languageCode: en-us
-title: Adam Dingman
+title: Adam Dingman - Cloud, DevOps, IoT
 theme: PaperMod
 params:
+    label:
+      text: Adam Dingman
     defaultTheme: light
     disableThemeToggle: true
-    title: Adam Dingman - Cloud, DevOps, IoT
     profileMode:
         enabled: true
         author: Adam Dingman
