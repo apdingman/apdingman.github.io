@@ -3,6 +3,7 @@ languageCode: en-us
 title: Adam Dingman - Cloud, DevOps, IoT
 theme: PaperMod
 params:
+    author: Adam Dingman
     description: Technology consultant curious about all things Cloud, DevOps and IoT
     label:
       text: Adam Dingman
@@ -10,7 +11,6 @@ params:
     disableThemeToggle: true
     profileMode:
         enabled: true
-        author: Adam Dingman
         title: Adam Dingman
         subtitle: Cloud, DevOps, IoT
         imageUrl: /images/profile-photo.jpg
