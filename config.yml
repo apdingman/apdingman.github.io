@@ -2,6 +2,7 @@ baseURL: 'https://adamdingman.net'
 languageCode: en-us
 title: Adam Dingman - Cloud, DevOps, IoT
 theme: PaperMod
+description: Technology consultant curious about all things Cloud, DevOps and IoT
 params:
     label:
       text: Adam Dingman
@@ -12,7 +13,6 @@ params:
         author: Adam Dingman
         title: Adam Dingman
         subtitle: Cloud, DevOps, IoT
-        description: Technology consultant curious about all things Cloud, DevOps and IoT
         imageUrl: /images/profile-photo.jpg
         imageWidth: 300
         imageHeight: 300
